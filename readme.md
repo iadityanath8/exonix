@@ -21,6 +21,7 @@ You can install Exonix using pip:
 
 ```bash
 pip install exonix
+```
 
 
 ```python 
